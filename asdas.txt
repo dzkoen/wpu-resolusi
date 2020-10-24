@@ -1,0 +1,11 @@
+WPU RESOLUSI
+-JavaScript
+*ES6
+*Framework Javascript
+  ^Vue
+-Game Engine
+-PHP Framework
+  ^Laravel
+-Interview
+-Vlogs
+-Py
