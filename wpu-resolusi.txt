@@ -3,5 +3,4 @@ WPU RESOLUSI
 - Membuat game
 - Membuat game-engine
 - Membuat merch-shop
-- Kolaborasi dengan banyak expert
 
