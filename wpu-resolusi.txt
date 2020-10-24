@@ -1,6 +1,1 @@
-WPU RESOLUSI
-- Membuat forum
-- Membuat game
-- Membuat game-engine
-- Membuat merch-shop
 
